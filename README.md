@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Welcome to my Github profile
+
+Here you will find all sort of stuff I'm working on.
+
 <!--
 **GabrielJean/GabrielJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
