@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile
 
-Here you will find all sort of stuff I'm working on.
+I'm an IT guy who loves learning about everything. My focus is primarily around devops stuff and I'm always looking at how I can improves the life of people around me using tech.  
 
 <!--
 **GabrielJean/GabrielJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
