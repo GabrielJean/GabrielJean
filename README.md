@@ -6,6 +6,8 @@ I'm an IT guys who loves automation. My focus is primarily around devops stuff a
 
 Here you will find all sort of stuff I'm learning about and I hope you'll find something to your liking. 
 
+Feel free to contribute. 
+
 <!--
 **GabrielJean/GabrielJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
