@@ -8,7 +8,7 @@ I am always looking for the next shiny tech to learn and I hope you will find so
 - 🔭 I’m currently working on Automating my HomeLab
 - 🌱 I’m currently learning Azure 
  - 💬 Ask me about Docker stuff
- - 📫 How to reach me: *Insert unfinished portfolio here* 
+ - 📫 How to reach me: https://gabrieljean.com
  - ⚡ Fun fact: This is an hidden feature on GitHub
  
 Feel free to contribute.
