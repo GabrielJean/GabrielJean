@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am an Cloud/DevOps guy based in Quebec Canada.
+I am an Cloud/DevOps guy based in Quebec, Canada.
 
 I love infrastructure and automation. So with no surprises, my focus is primarily around Devops and Cloud stuff.
 I am always looking for the next shiny tech to learn and I hope you will find something useful on my profile.
