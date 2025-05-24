@@ -1,27 +1,33 @@
-### Hi there 👋 
-I am an Cloud/DevOps guy based in Ottawa, Canada.
+## Hi there! 👋
 
-I love infrastructure and automation. So with no surprises, my focus is primarily around Devops and Cloud stuff.
-I am always looking for the next shiny tech to learn and I hope you will find something useful on my profile.
+I'm Gabriel—a Cloud & DevOps enthusiast based in Ottawa, Canada 🇨🇦.
 
+☁️ Obsessed with all things **cloud infrastructure** and **automation**, I'm always chasing the next shiny piece of tech to add to my toolkit. My main playgrounds are **DevOps**, **Cloud platforms**, and tinkering with my DIY **HomeLab**.
 
-- 🔭 I’m currently working on Automating my HomeLab
- - 💬 Ask me about Docker stuff
- - 📫 How to reach me: https://gabrieljean.com
- 
-Feel free to contribute.
+---
 
-Thanks
+### 🚀 What I'm up to
 
+- Automating my HomeLab with fun integrations and resilient architecture
+- Exploring the latest in containerization, orchestration, and infrastructure-as-code
+- Always gaming out ways to optimize and improve tech for myself and others
 
-<!--
-I am always searching for new ways to optimize and improves the life of people around me using tech. 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Things I like chatting about
+
+- **Docker**—from tips & tricks to real-world troubleshooting
+- DevOps best practices 🌱
+- Home automation hacks and setups
+
+---
+
+### 🤝 Let’s connect!
+
+- Check out my site: [gabrieljean.com](https://gabrieljean.com)
+- Drop me a message—I'm open to collaboration and nerdy conversations
+
+---
+
+Feel free to **⭐ star**, **🍴 fork**, or **contribute** to any of my projects.  
+Thanks for stopping by!
